@@ -11,4 +11,6 @@ Temporary Repository to learn Git and GitHub.
   - Connected the Git folder to Github under repo "sparshagarwal25/LearnGit".
   - Pushed the Git Folder to Master repo.
   - Added today's log in README.md file.
+  - Added .gitignore file [Empty as of now].
+  - Commited all changes and Pushed it to Remote.
 
