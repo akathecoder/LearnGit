@@ -17,3 +17,8 @@ Temporary Repository to learn Git and GitHub.
   - Added CS1301 Assignment 1.
   - Solved a Bug in Committing process though turns out it wasn't a bug but a understanding problem.
 
+## Friday, Jan 31 2020 @ 19:58:00
+  - Added CS1301 Assignment 2.
+  - Renamed CS1301 Assignment 1 Folder.
+  - Added README files in each folder.
+
