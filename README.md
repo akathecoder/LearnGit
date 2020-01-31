@@ -13,4 +13,7 @@ Temporary Repository to learn Git and GitHub.
   - Added today's log in README.md file.
   - Added .gitignore file [Empty as of now].
   - Commited all changes and Pushed it to Remote.
+  - Added Python Projects Folder.
+  - Added CS1301 Assignment 1.
+  - Solved a Bug in Committing process though turns out it wasn't a bug but a understanding problem.
 
